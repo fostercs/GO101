@@ -204,7 +204,7 @@ Go projects often follow a conventional structure (e.g., using `cmd/`, `pkg/`, `
 - **`test/`**: Additional test utilities and data.
   - **Example**: `test/helpers.go`
 
-### Significance of Design Patterns in Go
+### Applying Design Patterns in Go
 
 #### 1. Singleton
 **Purpose**: Ensures a class has only one instance and provides a global point of access to it.

@@ -32,6 +32,13 @@ zsh
 ```
 zsh < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
 ```
+
+# Source GVM
+   After installation, add GVM to your shell profile (e.g., `.bashrc`, `.zshrc`):
+   ```sh
+   source ~/.gvm/scripts/gvm
+   ```
+
 # List all available versions
 List available versions: `gvm listall`
 
