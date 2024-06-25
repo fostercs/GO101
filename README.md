@@ -21,7 +21,7 @@
 - [Interfaces](/ch3_concepts/README.md#interfaces)
 - [for loop](/ch3_concepts/README.md#for-loop)
 
-## Chapter 4 - Proficient Go
+## Chapter 4 - Basic Go
 - [A Note Before Getting Started](/ch4_proficient-go/README.md#a-note-before-we-get-started)
 - [Getting Started](/ch4_proficient-go/README.md#getting-started)
 - [What is Golang?](/ch4_proficient-go/README.md#what-is-golang)
@@ -31,3 +31,9 @@
 - [Type Assertion x.(T)](/ch4_proficient-go/README.md#type-assertion-vs-type-switch)
 - [Marshaling and Unmarshaling](/ch4_proficient-go/README.md#marshaling-and-unmarshaling)
 - [Method Sets](/ch4_proficient-go/README.md#method-sets-basics)
+
+## Chapter 5 - Proficient Go
+
+## Chapter 6 - Advanced Go
+
+## Chapter 7 - Interview Prep
